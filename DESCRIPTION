@@ -1,8 +1,8 @@
 Package: xptr
 Type: Package
 Title: Manipulating External Pointer
-Version: 1.1.1
-Date: 2019-01-13
+Version: 1.1.2
+Date: 2019-12-09
 Authors@R: c(
     person("Randy", "Lai", , "randy.cs.lai@gmail.com", role = c("aut", "cre"))
     )
@@ -13,8 +13,8 @@ Description: There is limited native support for external pointers in the R inte
 Depends: R (>= 3.4.0)
 License: MIT + file LICENSE
 NeedsCompilation: yes
-RoxygenNote: 6.0.1
-Packaged: 2019-01-13 14:10:14 UTC; Randy
+RoxygenNote: 6.1.1
+Packaged: 2019-12-09 21:32:38 UTC; randy
 Author: Randy Lai [aut, cre]
 Repository: CRAN
-Date/Publication: 2019-01-13 14:20:02 UTC
+Date/Publication: 2019-12-09 22:00:02 UTC
